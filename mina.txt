@@ -1,0 +1,106 @@
+Index	Price				Product
+1	EGP 7.00			Camay Bar Soap Romantic - 120 gm
+2	EGP 115.00			Sensodyne Multi Care + Whitening Toothpaste For Sensitive Teeth - 100ml - Buy 2 Get 1 Free
+3	EGP 9.00			Closeup Deep Menthol Fresh Breath Toothpaste - 25ml
+4	EGP 42.00			OSSUM Cherish Perfume Spray For Women- 120Ml
+5	EGP 104.00			Sensodyne Extra Fresh Toothpaste for Sensitive Teeth - 100ml - Buy 2 Get 1 Free
+6	EGP 33.45			Always Day & Night / Cool & Dry Jumbo 3in1 Maxi Thick Long Sanitary Pads With Wings - 26 Pads
+7	EGP 71.10			Karimed GOLDEN STRAND Integrated After Care Conditioner 400ML
+8	EGP 101.00			Sensodyne Deep Clean Toothpaste For Sensitive Teeth - 100ml - Buy 2 Get 1 Free
+9	EGP 364.45			Pampers Pants with lotion with Olive Oil Size 4, 120 diapers, 9-14 kg
+10	EGP 189.00			SHEIN Minimalist Solid Tights-5500
+11	EGP 33.50			Almarai Skimmed Plastic Bottle Milk-1.5 L
+12	EGP 120.00			M Sou Windowpane Front Zipper Lightweight Jacket - Black & Grey
+13	EGP 31.50			Karimed Keraview Keratin Shampoo + Conditioner Argan Oil For Damaged Hair350ml
+14	EGP 60.00			Bundle OF ( 6) Smart New Women Socks
+15	EGP 29.00			AM-Shop Bundle OF (4) Socks
+16	EGP 21.00			Hama Disposable CupCake Plates - 100 PCS/COLOR MAY VARY
+17	EGP 33.00			Giardino Tomato Paste Can – 760g
+18	EGP 152.00			Alameed Coffee Light Roast With Cardamom 8gm - Set Of 24 Packs
+19	EGP 48.00			Hama Disposable Paper Cups - 9 OZ - 50 Cups
+20	EGP 76.00			SHEIN Rhinestone & Butterfly Decor Earring Jackets-40465
+21	EGP 32.00			Sanita Scented Rose Trash Bags 55x50 - 25 Bags
+22	EGP 86.00			SHEIN Butterfly Charm Necklace & Earrings-9491
+23	EGP 14.00			Signal Whitening Toothpaste – 50ml
+24	EGP 150.00			Alameed Coffee Medium Roast With Cardamom 8gm - Set Of 24 Packs
+25	EGP 96.00			SHEIN 2pcs Rhinestone & Heart Decor Necklace-80181
+26	EGP 76.00			SHEIN Faux Pearl Layered Necklace-8124
+27	EGP 26.00			Solina Hand 500 ml Calm
+28	EGP 86.00			Gillette Venus Close & Clean Razor for Women - 2 Razors
+29	EGP 99.00			ORAL-B Pro-Expert Pulsar 3DW White Toothbrush, 35 Soft, 1 Count Multicolor
+30	EGP 43.00			Crest 3D Intense Brilliance Blast, Whitening and Freshness Toothpaste, 75 ml
+31	EGP 859.00			ADIDAS RUNFALCON 2.0 SHOES KIDS
+32	EGP 459.00			ADIDAS ESSENTIALS EMBROIDERED LINEAR LOGO T-SHIRT MEN
+33	EGP 1,059.00			ADIDAS ULTIMASHOW SHOES MEN
+34	EGP 459.00			ADIDAS AEROREADY DESIGNED TO MOVE SPORT T-SHIRT MEN
+35	EGP 759.00			ADIDAS PRIMEBLUE AEROREADY 3-STRIPES SLIM T-SHIRT MEN
+36	EGP 969.00			ADIDAS DESIGNED 2 MOVE 3-STRIPES 7/8 JOGGERS WOMEN
+37	EGP 759.00			ADIDAS TERREX PATCH MOUNTAIN GRAPHIC T-SHIRT MEN
+38	EGP 1,139.00			ADIDAS RUN FALCON 2.0 SHOES MEN
+39	EGP 489.00			ADIDAS AEROREADY MADE FOR TRAINING MINIMAL T-SHIRT WOMEN
+40	EGP 879.00			ADIDAS COPA SENSE.3 FIRM GROUND BOOTS KIDS
+41	EGP 459.00			ADIDAS LOUNGEWEAR ESSENTIALS SLIM LOGO T-SHIRT WOMEN
+42	EGP 609.00			ADIDAS AEROREADY ESSENTIALS CHELSEA SMALL LOGO SHORTS MEN
+43	EGP 529.00			ADIDAS ADILETTE SANDALS KIDS
+44	EGP 879.00			ADIDAS COPA SENSE.3 TURF BOOTS KIDS
+45	EGP 459.00			ADIDAS ESSENTIALS EMBROIDERED LINEAR LOGO T-SHIRT MEN
+46	EGP 356.95			Kit Kat Chunky Lotus Chocolate Bars - 24 Pcs
+47	EGP 54.00			Clean & Clear Deep Cleansing Foam Wash - 150ml
+48	EGP 6,413.00			Lenovo V14 – Intel Core i3 - 4GB RAM - 1TB HDD – 14 Inch – DOS - Iron Grey
+49	EGP 104.00			Sensodyne Extra Fresh Toothpaste for Sensitive Teeth - 100ml - Buy 2 Get 1 Free
+50	EGP 119.00			Nescafe Classic Instant Coffee Jar - 190 Gm + Free Gift Coffee Mate - 170 Gm
+51	EGP 254.95			Ariel Powder Lavender Detergent 7 Kilogram
+52	EGP 65.00			Lifebuoy Body Wash Total 10 - 500ml
+53	EGP 2,683.00			BLACK+DECKER GST1600-B5 Garment Steamer with Single Adjustable Pole & Hanger - 1600 Watt - 5 Stage - 1.7 L - Auto Shut-Off - Rose Gold&Black
+54	EGP 63.75			Abu Auf Ground Nutmeg - 75gm
+55	EGP 225.00			Fine Guard Adult Comfort Large
+56	EGP 964.00			Mienta SF35119A Fan With 3 Speeds, 16 Inches - White
+57	EGP 1,264.45			ORAL-B OXYJET Electric Toothbrush
+58	EGP 254.95			Ariel Powder Touch of Downy Detergent 7 Kilogram
+59	EGP 1,421.00			Chicco Bottle Warmer Home 220-240 V
+60	EGP 187.00			NIVEA Micellar Organic Rose Water Bundle - 2 Pcs
+61	EGP 229.00			Fashion Solid Dual Pocket Open Front Teddy Coat-Burgundy
+62	EGP 595.00			American Eagle Fleece Zip-Up Hoodie
+63	EGP 219.00			Flat Double Closure Black Leather Ankle Boot
+64	EGP 177.00			Sweat Shirt Hooded Unisex - Black.
+65	EGP 395.00			American Eagle AirFlex 360 Skinny Jean
+66	EGP 229.00			Izor Kangaroo Pocket Fleece Bi-Tone Hoodie With Drawstring - Grey & Black
+67	EGP 1,650.00 - EGP 1,800.00			American Eagle Puffer Parka
+68	EGP 29.00			AM-Shop Bundle OF (4) Socks
+69	EGP 179.00			Andora High Low Round Cole Pullover - Navy Blue
+70	EGP 1,225.00 - EGP 1,380.00			American Eagle Reversible Puffer Vest
+71	EGP 590.00 - EGP 850.00			Men Overcoat Gogh Two Layers Gray
+72	EGP 249.90			Women Suede Long Boots -Black
+73	EGP 750.00			Clever Vest  Gabardine Quilted Water Proof Thermal
+74	EGP 206.00			Caesar Boys Training Suit  With Pocket
+75	EGP 249.00			Activ Zipped High Neck Thermal Sweatshirt - Burgundy
+76	EGP 133.00			L'Oreal Paris Mega Volume Collagen Mascara - Extra Black - 9ml
+77	EGP 175.00			Maybelline New York Instant Perfector 4 In 1 Matte Make-up – 01 Light
+78	EGP 35.00			FYWNTSHY Blush Matte Powder - 108
+79	EGP 155.00			L'Oreal Paris Infaillible 24H Matte Cover Foundation 155 Natural Rose -Oil Control, High Coverage
+80	EGP 969.00			Calvin Klein Sheer Beauty - EDT - For Women - 100ml
+81	EGP 109.00			L'Oreal Paris Superliner Tattoo Signature – Black
+82	EGP 212.00			Maybelline New York Superstay Matte Ink Spiced Edition Liquid Lipstick - 340 Exhilarator
+83	EGP 218.00			Bath & Body Works Mango Mandarin  - Body Splash - For Women - 236 Ml
+84	EGP 59.00			Me Now 2 In 1 Concealer Stick And Liquid - No. 09
+85	EGP 139.00			Maybelline New York Tattoo Brow Tint Microblade Effect Eyebrow Ink Pen - 130 Deep Brown
+86	EGP 213.00			Bath & Body Works Sparkling Limoncello - Body Splash - For Women - 236 Ml
+87	EGP 79.00			Me Now Pro BB Cream Foundation Matte For Soft & Gentle Skin 40ml - 10
+88	EGP 49.00			Pretty Woman Waterproof Eyeliner 6ml - Black
+89	EGP 462.00			Dunhill Pursuit - EDT - For Men - 75ml
+90	EGP 109.00			L'Oreal Paris Perfect Slim Liner - 01 Intense Balck
+91	EGP 98.00			2 Shinny Star - Christmas Tree Ornaments - Gold
+92	EGP 79.00			Trump Christmas - Tree Ornaments - Multi Color 12 Pcs
+93	EGP 50.00			Conver 18'' SV Peace & Love Christmas
+94	EGP 81.90			Christmas Balls Tree Ornaments - White - 12 Pcs 3CM
+95	EGP 60.00			Christmas Printed Cushion Covers 1 Peice
+96	EGP 85.50			Christmas Tree Decoration Plastic Candy Cane New Year Pine Tree Decoration Pendant Gift, Red
+97	EGP 199.00			Handmade Christmas MDF LED Light
+98	EGP 105.00			Shinny Star - Christmas Tree Ornaments - RED
+99	EGP 99.00			Christmas Mug - White
+100	EGP 420.00 - EGP 1,625.00			Christmas Pine Needle Tree Snow Parties
+101	EGP 105.00			Christmas Tree Decoration Plastic Candy Cane New Year Pine Tree Decoration Pendant Gift, Red&white 12pcs
+102	EGP 120.00			Set Of Amazing New Year Pillow Covers  With Tissue Holder
+103	EGP 180.00			Christmas Printed Cushion Covers 8 Pieces
+104	EGP 1,150.00			Christmas Pine Needle Tree Snow Parties - 1.8 Meters
+105	EGP 145.00			Christmas Decorations,Santa Clause,Lightening,Singing-45Cm
